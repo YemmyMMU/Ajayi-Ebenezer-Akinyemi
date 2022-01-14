@@ -1,1 +1,2 @@
 # Ajayi Ebenezer Akinyemi
+Ajayi Ebenezer Akinyemi is a third year PhD student in the Faculty of Information, Science and Technology, Multimedia University (MMU), Malaysia and a Senior Lecturer with the Computer Science Department, Kebbi State Polytechnic Dakingari, Nigeria. Before that, he received his Master of Technology degree in the Federal University of Technology, Akure, Ondo State, Nigeria in 2014. His research interests include Machine Learning, Computer Vision, 3D Deep Learning, Computer Graphics, and Cyber-Security.
